@@ -13,10 +13,6 @@
     <!-- Device Trees -->
     <project path="device/samsung/a04e" name="a042xx/android_device_samsung_a04e" remote="GitHub" revision="lineage-22.2" />
     <project path="device/samsung/mt6765-common" name="a042xx/android_device_samsung_mt6765-common" remote="GitHub" revision="lineage-22.2" />
-  
-    <!-- Vendor Trees -->
-    <project path="vendor/samsung/a04e" name="a042xx/android_vendor_samsung_a04e" remote="GitHub" revision="lineage-22.2" />
-    <project path="vendor/samsung/mt6765-common" name="a042xx/android_vendor_samsung_mt6765-common" remote="GitHub" revision="lineage-22.2" />
 
     <!-- Kernel Source -->
     <project path="kernel/samsung/mt6765" name="a042xx/android_kernel_samsung_mt6765" remote="GitHub" revision="lineage-22.2" />
