@@ -11,10 +11,10 @@
           clone-depth="1" />
      
     <!-- Device Trees -->
-    <project path="device/samsung/a04e" name="SenpaiXN-Development/android_device_samsung_a04e-OSS" remote="GitHub" revision="lineage-22.2" />
-    <project path="device/samsung/a04e-kernel" name="SenpaiXN-Development/android_device_samsung_a04e-kernel-OSS" remote="GitHub" revision="lineage-22.2" />
-    <project path="vendor/samsung/a04e" name="SenpaiXN-Development/android_vendor_samsung_a04e-OSS" remote="GitHub" revision="lineage-22.2" />
-    <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="GitHub" revision="lineage-22.2" />
-    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="GitHub" revision="lineage-22.2" />
-    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" remote="GitHub" revision="lineage-22.2" />
+    <project path="device/samsung/a04e" name="SenpaiXN-Development/android_device_samsung_a04e" remote="GitHub" revision="cipheros" />
+    <project path="device/samsung/mt6765-common" name="SenpaiXN-Development/android_device_samsung_mt6765-common" remote="GitHub" revision="lineage-22.1" />
+    <project path="vendor/samsung/mt6765-lpm" name="SenpaiXN-Development/android_vendor_samsung_mt6765-lpm" remote="GitHub" revision="lineage-22.1" />
+    <project path="vendor/samsung/samsung-hq-camera" name="SenpaiXN-Development/android_vendor_samsung_samsung-hq-camera" remote="GitHub" revision="lineage-22.1" />
+    <project path="kernel/samsung/a04e" name="physwizz/A042-U-u6-u8" remote="GitHub" revision="main" />
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="GitHub" revision="lineage-22.1" />
 </manifest>
