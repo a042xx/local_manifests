@@ -12,7 +12,7 @@
      
     <!-- Device Trees -->
     <project path="device/samsung/a04e" name="SenpaiXN-Development/android_device_samsung_a04e-OSS" remote="GitHub" revision="lineage-22.2" />
-    <project path="kernel/samsung/a04e" name="physwizz/A042-U-u6-u8" remote="GitHub" revision="main" />
+    <project path="kernel/samsung/a04e" name="SenpaiXN-Development/android_kernel_samsung_a04e-OSS" remote="GitHub" revision="lineage-22.2" />
     <project path="vendor/samsung/a04e" name="SenpaiXN-Development/android_vendor_samsung_a04e-OSS" remote="GitHub" revision="lineage-22.2" />
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="GitHub" revision="lineage-22.2" />
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="GitHub" revision="lineage-22.2" />
