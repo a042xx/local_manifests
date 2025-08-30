@@ -14,5 +14,5 @@
     <project path="device/samsung/a04e" name="SenpaiXN-Development/android_device_samsung_a04e" remote="GitHub" revision="lineage-22.1" />
     <project path="vendor/samsung/a04e" name="SenpaiXN-Development/android_vendor_samsung_a04e" remote="GitHub" revision="lineage-22.1" />
     <project path="kernel/samsung/a04e" name="SenpaiXN-Development/android_kernel_samsung_a04e" remote="GitHub" revision="lineage-22.1" />
-    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="GitHub" revision="lineage-22.1" />
+    <project path="hardware/samsung_ext" name="LineageOS/android_hardware_samsung" remote="GitHub" revision="lineage-22.1" />
 </manifest>
